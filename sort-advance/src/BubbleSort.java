@@ -1,13 +1,15 @@
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdRandom;
 
+import java.util.Arrays;
+
 public class BubbleSort {
 
     public static void main(String[] args) {
         int arr[] = {8, 2, 3, 45, 6, 7};
         sort(arr);
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
+            System.out.print(arr[i] + " ");
         }
     }
 
