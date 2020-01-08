@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 public class ArrayList<E> extends AbstractList<E> {
 
     private E[] elements;
@@ -13,6 +11,7 @@ public class ArrayList<E> extends AbstractList<E> {
     public ArrayList() {
         this(DEFAULT_CAPACITY);
     }
+
 
     /**
      * 清除所有元素
