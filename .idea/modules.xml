@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmTour.iml" filepath="$PROJECT_DIR$/AlgorithmTour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avl/avl.iml" filepath="$PROJECT_DIR$/avl/avl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bst/bst.iml" filepath="$PROJECT_DIR$/bst/bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactored-bst/refactored-bst.iml" filepath="$PROJECT_DIR$/refactored-bst/refactored-bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-advance/sort-advance.iml" filepath="$PROJECT_DIR$/sort-advance/sort-advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-basic/sort-basic.iml" filepath="$PROJECT_DIR$/sort-basic/sort-basic.iml" />
+    </modules>
+  </component>
+</project>

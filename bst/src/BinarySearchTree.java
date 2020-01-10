@@ -226,9 +226,42 @@ public class BinarySearchTree<E> {
         return ((Comparable<E>) e1).compareTo(e2);
     }
 
+    /**
+     * 传入一个元素,删除这个节点,外部调用者是不知道节点这个东西存在的,只需要传入元素,她
+     * @param element
+     */
     public void remove(E element) {
+        remove(node(element));
         return;
     }
+
+    private void remove(Node<E> node) {
+        if (node==null) return;
+
+        size--;
+    }
+
+    /**
+     * 传入一个元素,找到这个节点
+     * @param element
+     * @return
+     */
+    private Node<E> node(E element) {
+        Node<E> node = root;
+        while (node != null) {
+            int cmp = compare(element,node.element);
+            if (cmp == 0) return node;
+            if (cmp > 0) {
+                node = node.right;
+            } else {
+                node = node.left;
+            }
+        }
+        return null;
+
+
+    }
+
 
     public boolean contains(E element) {
         return false;
