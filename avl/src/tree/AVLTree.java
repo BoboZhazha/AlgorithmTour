@@ -1,6 +1,8 @@
 package tree;
 
 import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
 
 public class AVLTree<E> extends BST<E> {
 	public AVLTree() {
@@ -14,7 +16,7 @@ public class AVLTree<E> extends BST<E> {
 
     @Override
     protected void afterAdd(Node<E> node) {
-
+        Map<String, String> map = new HashMap<>();
 
     }
 

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgorithmTour.iml" filepath="$PROJECT_DIR$/AlgorithmTour.iml" />
       <module fileurl="file://$PROJECT_DIR$/avl/avl.iml" filepath="$PROJECT_DIR$/avl/avl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avl-easy/avl-easy.iml" filepath="$PROJECT_DIR$/avl-easy/avl-easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/bst/bst.iml" filepath="$PROJECT_DIR$/bst/bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
