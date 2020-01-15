@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/bst/bst.iml" filepath="$PROJECT_DIR$/bst/bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rb-tree/rb-tree.iml" filepath="$PROJECT_DIR$/rb-tree/rb-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactored-bst/refactored-bst.iml" filepath="$PROJECT_DIR$/refactored-bst/refactored-bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-advance/sort-advance.iml" filepath="$PROJECT_DIR$/sort-advance/sort-advance.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-basic/sort-basic.iml" filepath="$PROJECT_DIR$/sort-basic/sort-basic.iml" />
